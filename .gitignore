@@ -1,0 +1,9 @@
+localhost/
+*.json
+.pytest_cache
+*.db
+test.db/
+node_modules/
+.idea
+/venv
+venv/
